@@ -10,11 +10,10 @@
         <link rel="stylesheet" href="css/index.css">
         <title>index</title>
         <?php
-        include "nav.html"
+        include "nav.php"
         ?>
     </head>
     <body>
-
         <!-- Optional JavaScript; choose one of the two! -->
 
         <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->

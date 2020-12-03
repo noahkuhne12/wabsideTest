@@ -11,7 +11,7 @@
         <title>projects</title>
 
         <?php
-        include "nav.html"
+        include "nav.php"
         ?>
     </head>
     <body>
