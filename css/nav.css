@@ -1,4 +1,28 @@
-.active{
-    color: #0d6efd !important;
-     background-color: #198754;
+.navbar-dark {
+    background-color: #41b9ec;
+    padding: 0;
 }
+
+/* change the brand and text color */
+.navbar-dark .navbar-brand,
+.navbar-dark .navbar-text {
+}
+
+/* change the link color and padding  */
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+    padding: .75rem 1rem;
+}
+
+/* change the color and bg color of active or hovered links */
+.navbar-dark .nav-item.active .nav-link,
+.navbar-dark .nav-item:hover .nav-link {
+    color: black;
+    background-color: #ffffff;
+}
+
+/* for dropdown only - change the color of droodown */
+.navbar-dark .dropdown-menu {
+    background-color: black;
+}
+
