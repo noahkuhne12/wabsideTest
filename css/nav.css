@@ -10,18 +10,21 @@
 
 /* change the link color and padding  */
 .navbar-dark .navbar-nav .nav-link {
-    color: white;
+    color: #ffffff;
     padding: .75rem 1rem;
 }
 
 /* change the color and bg color of active or hovered links */
 .navbar-dark .nav-item.active .nav-link,
 .navbar-dark .nav-item:hover .nav-link {
-    color: black;
-    background-color: #ffffff;
+    color: #000000;
+    background-color: #004f91;
 }
 
 /* for dropdown only - change the color of droodown */
 .navbar-dark .dropdown-menu {
     background-color: black;
 }
+
+
+

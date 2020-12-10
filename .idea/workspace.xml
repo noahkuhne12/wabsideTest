@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39e26ba2-dd19-4b60-b4eb-245004d734ae" name="Default Changelist" comment="opdata">
-      <change afterPath="$PROJECT_DIR$/nav.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/wabsideTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/wabsideTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/nav.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv.php" beforeDir="false" afterPath="$PROJECT_DIR$/cv.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/nav.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects.php" beforeDir="false" afterPath="$PROJECT_DIR$/projects.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +57,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606979903778</updated>
-      <workItem from="1606979907010" duration="18059000" />
+      <workItem from="1606979907010" duration="21598000" />
+      <workItem from="1607585727447" duration="9625000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1606988894061</created>
@@ -74,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606993825615</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="opdata">
+      <created>1606999406933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606999406933</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +101,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-1080.-1163.1080.1880@0.0.1366.728" timestamp="1606997407218" />
+    <state x="556" y="262" key="Github.ShareDialog" timestamp="1606999432500">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="556" y="262" key="Github.ShareDialog/0.0.1366.728/-1080.-1163.1080.1880@0.0.1366.728" timestamp="1606999432500" />
     <state x="517" y="287" key="NewPhpFileDialog" timestamp="1606997375919">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

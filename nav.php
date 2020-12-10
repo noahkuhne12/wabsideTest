@@ -2,13 +2,13 @@
 <link rel="stylesheet" href="css/nav.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
-
+<!--
 <nav class="navbar navbar-expand-sm navbar-dark sticky-top">
-    <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="collapsibleNavbar">
         <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse justify-content-center" id="collapsibleNavbar">
-        <ul class="navbar-nav nav-list">
+        <ul class="navbar-nav">
             <li id="home" class="nav-item active">
                 <a class="nav-link" href="index.php">Home </a>
             </li>
@@ -20,7 +20,26 @@
             </li>
         </ul>
     </div>
-
+</nav>
+-->
+<nav class="navbar navbar-expand-sm navbar-dark sticky-top">
+    <a class="navbar-brand" href="#">Noah Kühne</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+        <ul class="navbar-nav">
+            <li id="home" class="nav-item active">
+                <a class="nav-link" href="index.php">Home </a>
+            </li>
+            <li id="cv" class="nav-item">
+                <a class="nav-link" href="cv.php">cv</a>
+            </li>
+            <li id="projects" class="nav-item">
+                <a class="nav-link" href="projects.php">projects</a>
+            </li>
+        </ul>
+    </div>
 </nav>
 
 <script>
@@ -42,7 +61,6 @@
                 $("#cv").attr("class","nav-item")
                 $("#projects").attr("class",'nav-item active')
                 break;
-
         }
     })
 

@@ -6,15 +6,83 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
         <!-- Bootstrap CSS -->
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+              integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
         <link rel="stylesheet" href="css/index.css">
         <title>index</title>
+
+    </head>
+    <body>
+    <!-- Navigation -->
         <?php
         include "nav.php"
         ?>
-    </head>
-    <body>
-        <!-- Optional JavaScript; choose one of the two! -->
+
+    <!--- Image Slider -->
+        <div id="slides" class="carousel slide" data-ride="carousel">
+            <ul class="carousel-indicators">
+                <li data-target="#slides" data-slide-to="0" class="active">
+                <li data-target="#slides" data-slide-to="1"></li>
+            </ul>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="img/delish-ms-fields-cookies-024-1544735513.jpg">
+                    <div class="carousel-caption" >
+                        <h1 class="dispaly-2">hej</h1>
+                        <button type="button" class="btn btn-outline-light btn-lg">
+                            <a href="projects.php"></a>
+                        </button>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img src="img/image-71.png">
+                </div>
+            </div>
+        </div>
+
+    <!--- Jumbotron -->
+    <div class="container-fluid">
+        <div class="row jumbotron">
+            <div class="col-xs-12 col-md-9 col-lg-9 col-xl-2">
+                <p class="lead">dette er en test</p>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-2">
+                <a href="#"><button type="button" class="btn btn-outline-secondary btn-lg">test</button></a>
+            </div>
+        </div>
+    </div>
+
+    <!--- Welcome Section -->
+
+
+    <!--- Three Column Section -->
+
+
+    <!--- Two Column Section -->
+
+
+    <!--- Fixed background -->
+
+
+    <!--- Emoji Section -->
+
+
+    <!--- Meet the team -->
+
+
+    <!--- Cards -->
+
+
+    <!--- Two Column Section -->
+
+
+    <!--- Connect -->
+
+
+    <!--- Footer -->
+
+
+    <!-- Optional JavaScript; choose one of the two! -->
 
         <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

@@ -10,11 +10,12 @@
 
         <title>projects</title>
 
+
+    </head>
+    <body>
         <?php
         include "nav.php"
         ?>
-    </head>
-    <body>
 
         <!-- Optional JavaScript; choose one of the two! -->
 
