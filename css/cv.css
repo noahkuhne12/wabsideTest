@@ -1,0 +1,11 @@
+body{
+    height: 100%;
+    overflow-y: hidden;
+}
+html{
+    height: 100%;
+}
+#cvPdf{
+    width: 100%;
+    height: 100%;
+}

@@ -26,34 +26,45 @@
             </ul>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="img/delish-ms-fields-cookies-024-1544735513.jpg">
+                    <img src="img/delish-ms-fields-cookies-024-1544735513.jpg" sizes="400w, 400w, 400w">
                     <div class="carousel-caption" >
                         <h1 class="dispaly-2">hej</h1>
                         <button type="button" class="btn btn-outline-light btn-lg">
-                            <a href="projects.php"></a>
+                            <a href="projects.php">projekse</a>
                         </button>
+                        <button type="button" class="btn btn-primary btn-lg">hej med dig</button>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="img/image-71.png">
+                    <img src="img/image-71.png" height="400">
                 </div>
             </div>
         </div>
 
     <!--- Jumbotron -->
-    <div class="container-fluid">
-        <div class="row jumbotron">
-            <div class="col-xs-12 col-md-9 col-lg-9 col-xl-2">
-                <p class="lead">dette er en test</p>
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-2">
-                <a href="#"><button type="button" class="btn btn-outline-secondary btn-lg">test</button></a>
+        <div class="container-fluid">
+            <div class="row jumbotron">
+                <div class="col-xs-12 col-md-9 col-lg-9 col-xl-2">
+                    <p class="lead">dette er en test</p>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-2">
+                    <a href="#"><button type="button" class="btn btn-outline-secondary btn-lg">test</button></a>
+                </div>
             </div>
         </div>
-    </div>
 
     <!--- Welcome Section -->
-
+        <div class="container-fluid padding">
+            <div class="row welcome text-center">
+                <div class="col-12">
+                    <h1 class="display-4">Hej sa</h1>
+                </div>
+                <hr>
+                <div class="col-12">
+                    <p class="lead"> goddag alle sammen</p>
+                </div>
+            </div>
+        </div>
 
     <!--- Three Column Section -->
 

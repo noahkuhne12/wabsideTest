@@ -50,6 +50,7 @@
                 $("#home").attr("class",'nav-item active')
                 $("#cv").attr("class", "nav-item")
                 $("#projects").attr("class",'nav-item')
+
                 break;
             case "/wabsideTest/cv.php":
                 $("#cv").attr("class",'nav-item active')
