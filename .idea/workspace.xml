@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39e26ba2-dd19-4b60-b4eb-245004d734ae" name="Default Changelist" comment="opdata">
-      <change beforePath="$PROJECT_DIR$/.idea/wabsideTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/wabsideTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/cv.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/cv.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv.php" beforeDir="false" afterPath="$PROJECT_DIR$/cv.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/projects.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.php" beforeDir="false" afterPath="$PROJECT_DIR$/projects.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +75,7 @@
       <workItem from="1607585727447" duration="10242000" />
       <workItem from="1607669902799" duration="3560000" />
       <workItem from="1608100976114" duration="10579000" />
+      <workItem from="1608191962938" duration="3564000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1606988894061</created>
